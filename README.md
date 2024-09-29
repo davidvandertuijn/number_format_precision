@@ -6,7 +6,11 @@
 
 ![Number Format Precision](https://cdn.davidvandertuijn.nl/github/number_format_precision.png)
 
+The “Number Format Precision” tool is designed to provide precise control over the formatting of numerical values in PHP, specifically addressing the need for truncating decimals without rounding. This functionality is particularly useful for developers who require exact numerical representation in financial applications, scientific calculations, or any scenario where rounding could lead to inaccuracies.
+
 PHP built-in function **number_format** rounds by default, this library truncates decimals without rounding.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
 
 ## Install
 
